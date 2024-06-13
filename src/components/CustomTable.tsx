@@ -5,7 +5,6 @@ import {
   RowData,
   Table,
 } from '@tanstack/react-table'
-import React from 'react'
 import Filter from './Filter'
 import TablePins from './TablePins'
 
